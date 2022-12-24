@@ -1,0 +1,7 @@
+{
+  "id": "item",
+  "version": "1.0.0",
+  "name": "Item",
+  "description": "Item",
+  "plugin": "nax-item/plugin.js"
+}
